@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Eduardo, sejá bem-vindo(a) 👋
 
-- 🔭 Hoje trabalho com desenvolvimento Full-Stack
 - 🌱 Estou cursando ADS na Fatec Presiendete Prudente
 - 📱  Estou estudando desenvolvimento Mobile Android
 
