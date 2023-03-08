@@ -1,6 +1,8 @@
 ### Olá! Eu sou o Eduardo, sejá bem-vindo(a) 👋
 
-- 🌱 Estou cursando ADS na Fatec Presiendete Prudente
+- 🌱 Sou formado em Análise e Desenvolvimento de Sistemas na Fatec Presiendete Prudente
+-    Tenho conhecimento nas linguagens: PHP, Kotlin, Android com Kotlin, C#, Flutter, HTML, CSS, JavaScript
+-    Banco de dados: MySQL, PostgreSQL, MongoDB
 - 📱  Estou estudando desenvolvimento Mobile Android
 
 <div align="center">
